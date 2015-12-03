@@ -1,4 +1,4 @@
-```
+´´´
 mysql> use code;
 Reading table information for completion of table and column names
 You can turn off this feature to get a quicker startup with -A
@@ -47,4 +47,4 @@ mysql> describe usuarios;
 | ciudad_id  | int(10)      | YES  |     | NULL    |                |
 +------------+--------------+------+-----+---------+----------------+
 6 rows in set (0.00 sec)
-```
+´´´
